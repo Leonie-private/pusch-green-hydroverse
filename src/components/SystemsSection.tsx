@@ -148,7 +148,7 @@ const SystemsSection = () => {
                         <span className="text-gray-700">{step}</span>
                       </li>
                     ))}
-                  </ul>
+                  </ol>
                 </CardContent>
               </Card>
             </div>
